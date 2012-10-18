@@ -18,5 +18,10 @@
         "repository":   "TheMuppets/proprietary_vendor_samsung",
         "target_path":  "vendor/samsung",
         "branch":     "jellybean"
-      }
+      },
+      {
+    "repository": "CyanogenMod/android_kernel_samsung_d2",
+    "target_path": "kernel/samsung/d2",
+    "branch": "jellybean"
+    }
 ]
