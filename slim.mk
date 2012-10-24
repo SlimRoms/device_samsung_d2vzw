@@ -13,6 +13,7 @@ $(call inherit-product, vendor/slim/config/common_full_phone.mk)
 $(call inherit-product, vendor/slim/config/common_sgs.mk)
 
 #copy kernel and modules
+PRODUCT_COPY_FILES += \
 device/samsung/d2vzw/prebuilt/boot.img:system/slimkernel/boot.img \
 device/samsung/d2vzw/prebuilt/kernel:kernel \
 device/samsung/d2vzw/prebuilt/system/lib/modules/scsi_wait_scan.ko:system/lib/modules/scsi_wait_scan.ko \
