@@ -17,7 +17,7 @@
       {
         "repository":   "SlimRoms/proprietary_vendor_samsung",
         "target_path":  "vendor/samsung",
-        "branch":     "jellybean"
+        "branch":     "jb"
       },
 
       {
