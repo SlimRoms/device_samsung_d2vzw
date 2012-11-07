@@ -2,7 +2,7 @@
       {
         "repository": "SlimRoms/device_samsung_msm8960-common",
         "target_path": "device/samsung/msm8960-common",
-        "branch": "jellybean"
+        "branch": "jb"
       },
       {
         "repository": "SlimRoms/device_samsung_d2-common",
