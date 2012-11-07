@@ -12,7 +12,7 @@
       {
         "repository": "SlimRoms/device_samsung_qcom-common",
         "target_path": "device/samsung/qcom-common",
-        "branch": "jellybean"
+        "branch": "jb"
       },
       {
         "repository":   "SlimRoms/proprietary_vendor_samsung",
