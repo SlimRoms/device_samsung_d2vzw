@@ -1,0 +1,28 @@
+  [
+      {
+        "repository": "SlimRoms/device_samsung_msm8960-common",
+        "target_path": "device/samsung/msm8960-common",
+        "branch": "jb4.2"
+      },
+      {
+        "repository": "SlimRoms/device_samsung_d2-common",
+        "target_path": "device/samsung/d2-common",
+        "branch": "jb4.2"
+      },
+      {
+        "repository": "SlimRoms/device_samsung_qcom-common",
+        "target_path": "device/samsung/qcom-common",
+        "branch": "jb4.2"
+      },
+      {
+        "repository": "SlimRoms/proprietary_vendor_samsung",
+        "target_path": "vendor/samsung",
+        "branch": "jb4.2"
+      },
+      {
+      "repository": "CyanogenMod/android_kernel_samsung_d2",
+      "target_path": "kernel/samsung/d2",
+      "branch": "cm-10.1"
+      }
+
+  ]
