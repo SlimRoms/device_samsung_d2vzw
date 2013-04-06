@@ -15,10 +15,6 @@ $(call inherit-product, vendor/slim/config/common_sgs.mk)
 # Inherit torch settings
 $(call inherit-product, vendor/slim/config/common_ledflash.mk)
 
-#copy 00check
-PRODUCT_COPY_FILES += \
-    vendor/slim/prebuilt/common/etc/init.d/00check:system/etc/init.d/00check
-
 #bootanimation
 PRODUCT_COPY_FILES +=  \
     vendor/slim/prebuilt/hdpi/bootanimation.zip:system/media/bootanimation.zip
