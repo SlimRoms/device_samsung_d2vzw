@@ -33,5 +33,10 @@
         "repository": "CyanogenMod/android_hardware_qcom_audio-caf",
         "target_path": "hardware/qcom/audio-caf",
         "branch": "cm-10.1"
+      },
+      {
+        "repository": "SlimRoms/hardware_samsung",
+        "target_path": "hardware/samsung",
+        "branch": "jb4.2"
       }
   ]
