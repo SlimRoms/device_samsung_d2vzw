@@ -38,5 +38,10 @@
         "repository": "SlimRoms/hardware_samsung",
         "target_path": "hardware/samsung",
         "branch": "jb4.2"
+      },
+      {
+        "repository":  "SlimRoms/hardware_qcom_media-caf",
+        "target_path": "hardware/qcom/media-caf",
+        "branch":      "jb4.2"
       }
   ]
