@@ -5,9 +5,9 @@
     "branch": "lp5.0"
  },
  {
-    "repository": "SlimRoms/hardware_qcom_audio-caf",
-    "target_path": "hardware/qcom/audio-caf/msm8960",
-    "branch": "lp5.0-caf-8960"
+    "repository": "SlimRoms/device_samsung_msm8960-common",
+    "target_path": "device/samsung/msm8960-common",
+    "branch": "lp5.0"
  },
  {
     "repository": "SlimRoms/hardware_samsung",
