@@ -20,8 +20,8 @@
     "branch": "lp5.0"
  },
  {
-    "repository": "CyanogenMod/android_kernel_samsung_d2",
+    "repository": "SlimRoms/android_kernel_samsung_d2",
     "target_path": "kernel/samsung/d2",
-    "branch": "cm-12.0"
+    "branch": "lp5.1"
  }
 ]
